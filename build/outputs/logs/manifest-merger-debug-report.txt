@@ -1,0 +1,92 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml
+		INJECTED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml
+		INJECTED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml
+		INJECTED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:support-v13:25.1.1] C:\Users\Owner\.android\build-cache\bf4276c34a98b80e2fc331aae356daaa58b338ff\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.1.1] C:\Users\Owner\.android\build-cache\371a529de74103d21d8debb0f13f50ccd9d45dec\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Owner\.android\build-cache\437b44e4796f4dd6add08ac32d1827ea41c16e4b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Owner\.android\build-cache\9306bee86aaa480970f82d1a7632134375323c25\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Owner\.android\build-cache\a8720d42c231da8b2c07c7e37afd9a9e1316b4da\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Owner\.android\build-cache\c2947dec7c1c3855d20ed2ce8218c2fac3245824\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Owner\.android\build-cache\1f02eeb4d6525525c026ea5ad59a72dfeab2f194\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Owner\.android\build-cache\1b017e025b176639e905d558469205682c0c272a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Owner\.android\build-cache\ae1c5abfe4edf40f17be814c54d0ff7584c60265\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Owner\.android\build-cache\49d4cc18976c16bc58f75cc7aff6f7df8e7d02be\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Owner\.android\build-cache\1de6fe0870c5a495ca95034e19bf8a81e0f93279\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Owner\.android\build-cache\5e941521ee5e8ae45fff446f74f824196c205bf8\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Owner\.android\build-cache\b234083dbfa895dc03f625e714125f7293068f9e\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml:11:9-35
+	android:roundIcon
+		ADDED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml:10:9-54
+	android:allowBackup
+		ADDED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml:6:9-42
+activity#com.rosius.popularmovies.MainActivity
+ADDED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.rosius.popularmovies.MovieDetailsActivity
+ADDED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml:20:9-21:51
+	android:label
+		ADDED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml:20:19-55
+uses-sdk
+INJECTED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.1.1] C:\Users\Owner\.android\build-cache\bf4276c34a98b80e2fc331aae356daaa58b338ff\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:design:25.1.1] C:\Users\Owner\.android\build-cache\371a529de74103d21d8debb0f13f50ccd9d45dec\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Owner\.android\build-cache\437b44e4796f4dd6add08ac32d1827ea41c16e4b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Owner\.android\build-cache\9306bee86aaa480970f82d1a7632134375323c25\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Owner\.android\build-cache\a8720d42c231da8b2c07c7e37afd9a9e1316b4da\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Owner\.android\build-cache\c2947dec7c1c3855d20ed2ce8218c2fac3245824\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Owner\.android\build-cache\1f02eeb4d6525525c026ea5ad59a72dfeab2f194\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Owner\.android\build-cache\1b017e025b176639e905d558469205682c0c272a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Owner\.android\build-cache\ae1c5abfe4edf40f17be814c54d0ff7584c60265\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Owner\.android\build-cache\49d4cc18976c16bc58f75cc7aff6f7df8e7d02be\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Owner\.android\build-cache\1de6fe0870c5a495ca95034e19bf8a81e0f93279\output\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\Owner\.android\build-cache\8827244cda0be3c8f214d78230f980a6671f26b9\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Owner\.android\build-cache\5e941521ee5e8ae45fff446f74f824196c205bf8\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Owner\.android\build-cache\b234083dbfa895dc03f625e714125f7293068f9e\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.1.1] C:\Users\Owner\.android\build-cache\bf4276c34a98b80e2fc331aae356daaa58b338ff\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml
+		INJECTED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml
+		INJECTED from C:\rosius\UDACITY\PopularMovies\app\src\main\AndroidManifest.xml

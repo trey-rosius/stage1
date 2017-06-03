@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\rosius\\UDACITY\\PopularMovies\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\rosius\\UDACITY\\PopularMovies\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\rosius\\UDACITY\\PopularMovies\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\rosius\\UDACITY\\PopularMovies\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
