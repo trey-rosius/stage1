@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="spinner_right">10dp</dimen>
+    <dimen name="sv_padding_bot">20dp</dimen>
+    <dimen name="iv_height">400dp</dimen>
+</resources>
