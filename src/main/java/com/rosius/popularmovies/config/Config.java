@@ -5,7 +5,7 @@ package com.rosius.popularmovies.config;
  */
 
 public class Config {
-    public static final String API_KEY = "89faecd43af2b1684a14599ce2da9447";
+    public static final String API_KEY = "PUT YOUR API KEY HERE";
 
     public static final String BASE_URL = "https://api.themoviedb.org/3/movie/";
     public static final String BASE_URL_SIZE = "http://image.tmdb.org/t/p/w185";
