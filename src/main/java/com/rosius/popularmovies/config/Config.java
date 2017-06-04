@@ -1,7 +1,7 @@
 package com.rosius.popularmovies.config;
 
 /**
- * Created by Owner on 21-May-17.
+ * Created by Ndimofor Ateh Rosius on 21-May-17.
  */
 
 public class Config {
